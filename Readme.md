@@ -1,20 +1,3 @@
-# Title: 03-custom-hooks
-
-No encontro da Chapilda Front-end desta semana, abordamos o tópico: Custom Hooks
-
-Para isso, criamos um projeto demo chamado Chat Wars, que consiste em um chat simples, onde os usuários podem enviar mensagens para um canal público.
-
-Mostramos como utilizamos Custom Hooks para criar um hook de uso geral, que pode ser utilizado em qualquer componente, para realizar chamadas a API.
-
-## Tópicos abordados
-
-### Custom Hooks
-
-- [X]  Novos hooks react 18 (useTransition, useDeferredValue)
-- [X]  Custom hooks (useMessages)
-- [X]  AHooks dentro do Herbie Dashboard
-
-
 # Setup Chat Wars
 
 Setup: 
