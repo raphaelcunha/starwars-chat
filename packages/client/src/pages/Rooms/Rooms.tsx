@@ -1,7 +1,6 @@
 import { Link } from "react-router-dom";
 
 import ImgEmpireStrikes from "assets/rooms/empire-strikes.jpg";
-import ImgReturnJedi from "assets/rooms/return-jedi.jpeg";
 
 function Rooms(): JSX.Element {
   return (
