@@ -6,7 +6,8 @@
         "serve": "wsrun --parallel dev",
         "dev": "concurrently \"wsrun --parallel dev\"",
         "dev:backend": "cd packages/backend && npm run dev",
-        "dev:frontend": "cd packages/client && npm run dev"
+        "dev:frontend": "cd packages/frontend && npm run dev",
+        "build:frontend": "cd packages/frontend && npm run build"
     },
     "workspaces": [
         "packages/*"
