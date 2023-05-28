@@ -3,7 +3,7 @@ import { v4 as uuidv4 } from "uuid";
 
 function createMessages() {
   const mockMessages = [];
-  for (let i = 1; i <= 5000; i++) {
+  for (let i = 1; i <= 50; i++) {
     // generate random id 1 or 2
     const id = uuidv4();
     const userId = faker.datatype.number({ min: 1, max: 2 });
